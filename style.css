@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans';
+    background: rgb(45, 45, 45);
+    color: rgba(255, 255, 255, 0.8);
+}
+
+img {
+    height: 350px !important;
+    width: 350px !important;
+}
+
+.testImg {
+    background:rgb(45, 45, 45);
+}
