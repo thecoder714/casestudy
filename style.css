@@ -1,15 +1,30 @@
 body {
     text-align: center;
-    font-family: 'Open Sans';
-    background: rgb(45, 45, 45);
-    color: rgba(255, 255, 255, 0.8);
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 21px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /*background: rgb(45, 45, 45);
+    color: rgba(255, 255, 255, 0.8);*/
 }
 
 img {
-    height: 350px !important;
+    height: 300px !important;
     width: 350px !important;
+    background-color:black !important;
 }
 
 .testImg {
-    background:rgb(45, 45, 45);
+    border: 5px solid;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    height: 400px;
+}
+
+.ruling {
+    height: 5px;
+    border: 5px solid;
+}
+
+strong {
+    font-style: italic;
 }
